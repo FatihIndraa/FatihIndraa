@@ -9,8 +9,7 @@
 
 ---
 
-- [XianYao\'s Blog](#)
-- 清风皓月，光景常新。
+- Fatih Indraa。
 
 ---
 
