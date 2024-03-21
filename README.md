@@ -14,7 +14,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatihIndraa)](https://github.com/FatihIndraa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatihIndraa)]
 
 
 ![github contribution grid snake animation](./dist//github-snake.svg#gh-dark-mode-only)
