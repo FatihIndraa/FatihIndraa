@@ -11,7 +11,7 @@
 
 - ENJOY。
 - Fatih Indraa。
-- [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+- [![wakatime](https://wakatime.com/badge/user/018ccdcf-f02a-4d8d-8f26-38cd878c7d0a.svg)](https://wakatime.com/@018ccdcf-f02a-4d8d-8f26-38cd878c7d0a)
 
 ---
 
