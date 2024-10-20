@@ -1,11 +1,7 @@
 # Hi there! 👋 I'm Fatih Indra
 **Welcome! the**
 ![](https://moe-counter.glitch.me/get/@:FatihIndraa?theme=rule34)
-**visitor.**
-
-<a href="https://github.com/FatihIndraa">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=FatihIndraa&mode=daily" />
-</a>
+**visitor.** 
 
 👨‍💻 Full-Stack Developer | 🚀 Laravel Enthusiast | 🎨 Business Card Designer | [![wakatime](https://wakatime.com/badge/user/018ccdcf-f02a-4d8d-8f26-38cd878c7d0a.svg)](https://wakatime.com/@018ccdcf-f02a-4d8d-8f26-38cd878c7d0a)
 
