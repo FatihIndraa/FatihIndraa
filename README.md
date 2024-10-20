@@ -21,6 +21,8 @@ I'm a passionate developer with a knack for building intuitive and efficient app
 
 ## 📊 GitHub Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihIndraa&theme=tokyonight" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihIndraa&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+
+
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/fatihindraa)
 - [Upwork](https://www.upwork.com/freelancers/fatihindraa)
