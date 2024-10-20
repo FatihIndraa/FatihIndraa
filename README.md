@@ -21,8 +21,6 @@ I'm a passionate developer with a knack for building intuitive and efficient app
 
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FatihIndraa&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihIndraa&theme=tokyonight" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihIndraa&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
-![FatihIndraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihIndraa&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/fatihindraa)
 - [Upwork](https://www.upwork.com/freelancers/fatihindraa)
