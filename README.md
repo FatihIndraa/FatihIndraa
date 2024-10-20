@@ -20,3 +20,33 @@
 
 ![github contribution grid snake animation](./dist//github-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](./dist/github-snake.svg#gh-light-mode-only)
+
+# Hi there! 👋 I'm Fatih Indra
+
+👨‍💻 Full-Stack Developer | 🚀 Laravel Enthusiast | 🎨 Business Card Designer
+
+---
+
+## 🔥 About Me
+I'm a passionate developer with a knack for building intuitive and efficient applications. I specialize in **Laravel** development, creating web solutions that are scalable and easy to maintain. I also enjoy dabbling in **design**, especially creating custom **business cards**.
+
+- 💼 Currently working on a room management system for a large boarding house.
+- 🌱 Always learning and exploring new technologies to improve my craft.
+- 🎨 Design-focused with expertise in **business card creation** for professionals.
+
+## 🔧 Tech Stack
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP, Laravel
+- **Database**: MySQL, SQLite
+- **Tools**: Git, Docker, Composer, Nginx
+
+## 📊 GitHub Stats
+![FatihIndraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihIndraa&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/fatihindraa)
+- [Upwork](https://www.upwork.com/freelancers/fatihindraa)
+
+---
+
+Feel free to customize this template further to fit your style and specific projects.
